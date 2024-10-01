@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.CancellationTokenEqualityComparer.html",
-          "hash": "BUeLcPqsA1iSK6sESUPSEhTlyTYvs5NOqmc/588DGpo="
+          "hash": "Vb9BJeO96pYg/vY87hTEQe9lFjrQULrFShdPT8xS810="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.EnumerableAsyncExtensions.html",
-          "hash": "+4R0A4vj1bVaVk8Qu70p+3QTEHFBsmQkG+WhXAYAqlk="
+          "hash": "NqjqEqji5SwffQG8k42gwd9zIVqgV4Yo7OcJSLH04CA="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.EnumeratorAsyncExtensions.html",
-          "hash": "vtWq+lsVUbkjrfwywFJU5HAG8ZbFHBMIup54yVKLgtk="
+          "hash": "dfkRrSzJiUlXLQLkW54KooHnSSp+fGIaf6gDIN52nu8="
         }
       },
       "is_incremental": false,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.IUniTaskOrderedAsyncEnumerable-1.html",
-          "hash": "gUSWFk8Lx1F9kE8H8joolkZaLcqfszi1YkpHDz1rs58="
+          "hash": "AGE6xlz9NAkZPrMxIyPsO3fQ/CSWnQp9muCCc6bpNYg="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.Linq.UniTaskAsyncEnumerable.html",
-          "hash": "KpZiLneYFJv3h7LBUvzOJevDtLkUBtPVrpvqQQGUljs="
+          "hash": "GtuQ2CcZNchmbKh5Rf0tFc+zuUljtCFo/WxS5cnSnr4="
         }
       },
       "is_incremental": false,
@@ -741,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.Progress.html",
-          "hash": "UqAP3fJQdcEKj9M+gboTMtaIizZtiZB5ZIyDGJTX7U0="
+          "hash": "z2Gfn3EbGUjhp3ocIJcQrZIKHyyqaxiYIyFgYvgH8L0="
         }
       },
       "is_incremental": false,
@@ -885,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.TaskPool.html",
-          "hash": "83LkAprHi2dm7p82b2XnXFOm31qJStanzpIGvf+i0ac="
+          "hash": "PkU4bz+8qzxdIlOySZXxpYiBR6rflgPobZU4R+ycOPE="
         }
       },
       "is_incremental": false,
@@ -2817,7 +2817,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTask.html",
-          "hash": "vbxE/i682xR3EDKZoNMEPqVBMVtj5IKisQ4xbQ+Qjo8="
+          "hash": "mu0Fm6MZ6qobBCO8WhT+bc1aSCQ2R5Mto3pcnHPEWJ4="
         }
       },
       "is_incremental": false,
@@ -2913,7 +2913,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.UniTaskExtensions.html",
-          "hash": "e18u+O/njJNHt1juzrjiTuTPVsh5L2WgVb5M1faN9FI="
+          "hash": "Q0iXSccXTY9DQ+AjNoiPIRgOP8QR5/YCWuhyX37An24="
         }
       },
       "is_incremental": false,
@@ -3413,6 +3413,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Cysharp.Threading.Tasks.WhenEachResult-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Cysharp.Threading.Tasks.WhenEachResult-1.html",
+          "hash": "DIrM1iLT1YT5dt+sY0AC39ufZ7/7bF36/bvDvfMLQ3s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Cysharp.Threading.Tasks.YieldAwaitable.Awaiter.yml",
       "output": {
         ".html": {
@@ -3441,7 +3453,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Cysharp.Threading.Tasks.html",
-          "hash": "RSSWLv5s3si7Am+APWH3JwBeFzzvtTxCeOOJ1nN0FV8="
+          "hash": "xTN4mugDeQR+A7DfVcYauA59yTG2imptrzBITUmYMTY="
         }
       },
       "is_incremental": false,
@@ -3453,7 +3465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "066Um5whqj2Yvq5cUdFYX9QTxW6NAMTc3R1cwFPSyJk="
+          "hash": "Et3qgDTAY3ieyxhx9255K+ETKXteS0dIGlisbzPLU6Y="
         }
       },
       "is_incremental": false,
@@ -3507,7 +3519,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 287,
+          "total_file_count": 288,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
